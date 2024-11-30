@@ -1,0 +1,14 @@
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.AssemblyInfo.cs
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\bin\Debug\net9.0\projeto-alura2.exe
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\bin\Debug\net9.0\projeto-alura2.deps.json
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\bin\Debug\net9.0\projeto-alura2.runtimeconfig.json
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\bin\Debug\net9.0\projeto-alura2.dll
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\bin\Debug\net9.0\projeto-alura2.pdb
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.dll
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\refint\projeto-alura2.dll
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.pdb
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\projeto-alura2.genruntimeconfig.cache
+C:\Users\gusta\source\repos\projeto-alura2\projeto-alura2\obj\Debug\net9.0\ref\projeto-alura2.dll
